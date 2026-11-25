@@ -1,0 +1,6 @@
+{
+  "name": "SIAK Kelurahan — Sistem Informasi Administrasi Kependudukan",
+  "description": "Sistem Informasi Administrasi Kependudukan berbasis NIK sebagai Primary Key dengan kontrol akses bertingkat (ADMIN, RT, RW, LURAH) serta kode sumber lengkap Laravel 11.57.0 & Filament v5.10.1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
